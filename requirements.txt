@@ -1,0 +1,8 @@
+python-twitter
+python-dateutil
+requests
+scrapy
+scrapy-splash
+bs4
+humanize
+blessings
